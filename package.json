@@ -1,0 +1,36 @@
+{
+  "name": "frankdimodicaart",
+  "version": "1.0.0",
+  "description": "frank's an artist in new york he is famously known for his contribution to the wall street bull",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JamesMedina7787/FrankDimodicaArt.git"
+  },
+  "keywords": [
+    "Frank",
+    "Dimodica's",
+    "an",
+    "Artist",
+    "famously",
+    "known",
+    "for",
+    "his",
+    "contribution",
+    "to",
+    "the",
+    "Wall",
+    "Street",
+    "Bull",
+    "sculpture"
+  ],
+  "author": "jwm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesMedina7787/FrankDimodicaArt/issues"
+  },
+  "homepage": "https://github.com/JamesMedina7787/FrankDimodicaArt#readme"
+}
