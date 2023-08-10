@@ -4,7 +4,8 @@
   "description": "frank's an artist in new york he is famously known for his contribution to the wall street bull",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -32,5 +33,13 @@
   "bugs": {
     "url": "https://github.com/JamesMedina7787/FrankDimodicaArt/issues"
   },
-  "homepage": "https://github.com/JamesMedina7787/FrankDimodicaArt#readme"
+  "homepage": "https://github.com/JamesMedina7787/FrankDimodicaArt#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
