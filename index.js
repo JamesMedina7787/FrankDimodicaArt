@@ -8,7 +8,11 @@ app.use(express.static('public'))
 
 app.get('/', (req, res) => {
     res.render("mainPage");
-});
+})
+app.get('/oilPaintings', (req, res) => {
+    res.render("oilPaintings");
+})
+
 
 const PORT = 3000;
 app.listen(PORT, () => {
