@@ -1,0 +1,38 @@
+
+{
+  "oilOnCanvas": [
+    {
+      "id" : 1,
+      "name": "Twilight at Dawn",
+
+      "size": "17x13 inches",
+      "imageSrc" : "imgs/11.png"
+    },
+    {
+      "id" : 2,
+      "name": "Nude in Chair",
+      "size": "34x26 inches",
+      "imageSrc" : "imgs/12.png"
+    },
+    {
+    "id" : 3,
+    "name": "Chimp in a Cloud",
+    "size": "48x36 inches",
+    "imageSrc" : "imgs/13.png"
+  },
+  {
+  "id" : 4,
+  "name": "Puffin Stuff",
+  "size": "22x14 inches",
+  "imageSrc" : "imgs/14.png"
+}
+],
+"classes":[
+  {
+      "picture1": "col s12 l4",
+      "description1":"col s12 l6 offset-l1",
+      "picture2" : "col s12 l4 offset-l1 push-l7",
+      "description2" : "col s12 l6 pull-l5 right-align"
+  }
+]
+}
