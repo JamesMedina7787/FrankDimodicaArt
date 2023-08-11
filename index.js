@@ -24,6 +24,18 @@ app.get('/oilPaintings', (req, res) => {
   })
 })
 
+app.get('/mixedMedia', (req, res) => {
+  fs.readFile('mixed.json', function(error, data){
+    if(error){
+      res.status(500).end()
+    } else {
+      res.render('mixedMedia.ejs', {
+       mixed: JSON.parse(data)
+      })
+    }
+  })
+})
+
 
 const PORT = 3000;
 app.listen(PORT, () => {

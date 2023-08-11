@@ -1,38 +1,167 @@
-
 {
   "oilOnCanvas": [
     {
-      "id" : 1,
+      "id": 1,
       "name": "Twilight at Dawn",
-
       "size": "17x13 inches",
-      "imageSrc" : "imgs/11.png"
+      "imageSrc": "imgs/11.png"
     },
     {
-      "id" : 2,
+      "id": 2,
       "name": "Nude in Chair",
       "size": "34x26 inches",
-      "imageSrc" : "imgs/12.png"
+      "imageSrc": "imgs/12.png"
     },
     {
-    "id" : 3,
-    "name": "Chimp in a Cloud",
-    "size": "48x36 inches",
-    "imageSrc" : "imgs/13.png"
-  },
-  {
-  "id" : 4,
-  "name": "Puffin Stuff",
-  "size": "22x14 inches",
-  "imageSrc" : "imgs/14.png"
-}
-],
-"classes":[
-  {
-      "picture1": "col s12 l4",
-      "description1":"col s12 l6 offset-l1",
-      "picture2" : "col s12 l4 offset-l1 push-l7",
-      "description2" : "col s12 l6 pull-l5 right-align"
-  }
-]
+      "id": 3,
+      "name": "Chimp in a Cloud",
+      "size": "48x36 inches",
+      "imageSrc": "imgs/15.png"
+    },
+    {
+      "id": 4,
+      "name": "Puffin Stuff",
+      "size": "22x14 inches",
+      "imageSrc": "imgs/14.png"
+    },
+    {
+      "id": 5,
+      "name": "By the Lagoon",
+      "size": "49x48 Inches 2015",
+      "imageSrc": "imgs/01.png"
+    },
+    {
+      "id": 6,
+      "name": "Prussian Dream",
+      "size": "49x48 Inches",
+      "imageSrc": "imgs/02.png"
+    },
+    {
+      "id": 7,
+      "name": "The Crooked Vase",
+      "size": "24x18 Inches",
+      "imageSrc": "imgs/03.png"
+    },
+    {
+      "id": 8,
+      "name": "Black Static",
+      "size": "30x24 Inches",
+      "imageSrc": "imgs/04.png"
+    },
+    {
+      "id": 9,
+      "name": "Scream",
+      "size": "20x20 Inches",
+      "imageSrc": "imgs/05.png"
+    },
+    {
+      "id": 10,
+      "name": "Prussian Dream",
+      "size": "10ftx40 Inches",
+      "imageSrc": "imgs/06.png"
+    },
+    {
+      "id": 11,
+      "name": "Still Life with Mysterious Background",
+      "size": "21x17 Inches",
+      "imageSrc": "imgs/07.png"
+    },
+    {
+      "id": 12,
+      "name": "Apples and Oranges",
+      "size": "24x20 Inches",
+      "imageSrc": "imgs/08.png"
+    },
+    {
+      "id": 13,
+      "name": "At the Circus",
+      "size": "20x16 Inches",
+      "imageSrc": "imgs/09.png"
+    },
+    {
+      "id": 14,
+      "name": "Pineappley",
+      "size": "12x9 Inches",
+      "imageSrc": "imgs/10.png"
+    },
+    {
+      "id": 15,
+      "name": "Pirahna Snapper",
+      "size": "30x20 Inches",
+      "imageSrc": "imgs/16.png"
+    },
+    {
+      "id": 16,
+      "name": "The Crawler",
+      "size": "30x24 Inches",
+      "imageSrc": "imgs/17.png"
+    },
+    {
+      "id": 17,
+      "name": "Tattoo You",
+      "size": "30x24 Inches",
+      "imageSrc": "imgs/13.png"
+    },
+    {
+      "id": 18,
+      "name": "Blue Balls",
+      "size": "20x16 Inches",
+      "imageSrc": "imgs/18.png"
+    },
+    {
+      "id": 19,
+      "name": "Oh No!",
+      "size": "32x18 Inches",
+      "imageSrc": "imgs/19.png"
+    },
+    {
+      "id": 20,
+      "name": "Rooster",
+      "size": "36x37 Inches",
+      "imageSrc": "imgs/21.png"
+    },
+    {
+      "id": 21,
+      "name": "Hideous Beauty",
+      "size": "24x18 Inches",
+      "imageSrc": "imgs/22.png"
+    },
+    {
+      "id": 22,
+      "name": "Starman",
+      "size": "28x22",
+      "imageSrc": "imgs/23.png"
+    },
+    {
+      "id": 23,
+      "name": "The Meeting",
+      "size": "25x30 Inches",
+      "imageSrc": "imgs/24.png"
+    },
+    {
+      "id": 24,
+      "name": "Rust at Dusk",
+      "size": "24x18 Inches",
+      "imageSrc": "imgs/25.png"
+    },
+
+    {
+      "id": 25,
+      "name": "Apples and Oranges",
+      "size": "24x20 Inches",
+      "imageSrc": "imgs/27.png"
+    },
+    {
+      "id": 26,
+      "name": "Run for your Life",
+      "size": "24x18 Inches",
+      "imageSrc": "imgs/28.png"
+    },
+    {
+      "id": 27,
+      "name": "Grapes of Wrath",
+      "size": "28x18 Inches",
+      "imageSrc": "imgs/29.png"
+    }
+  ]
 }

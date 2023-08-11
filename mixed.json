@@ -1,0 +1,76 @@
+{
+  "mixedMedia": [
+    {
+      "id": 1,
+      "name": "Birth of an Epiphany",
+      "size": "30x22 inches",
+      "imageSrc": "imgs/mm1.png"
+    },
+    {
+      "id": 2,
+      "name": "Custom Oak Drawer",
+      "size": "",
+      "imageSrc": "imgs/mm2.png"
+    },
+    {
+      "id": 3,
+      "name": "Custom Gothic",
+      "size": "",
+      "imageSrc": "imgs/mm3.png"
+    },
+    {
+      "id": 4,
+      "name": "Out of the Sky",
+      "size": "20x15 inches",
+      "imageSrc": "imgs/mm4.png"
+    },
+    {
+      "id": 5,
+      "name": "The Gathering",
+      "size": "25x36 inches",
+      "imageSrc": "imgs/mm5.png"
+    },
+    {
+      "id": 6,
+      "name": "Stranger in Manhattan",
+      "size": "25x36 inches",
+      "imageSrc": "imgs/mm6.png"
+    },
+    {
+      "id": 7,
+      "name": "Mystical Madam",
+      "size": "12x8 inches",
+      "imageSrc": "imgs/mm7.png"
+    },
+    {
+      "id": 8,
+      "name": "Who's Hoo",
+      "size": "13x10 inches",
+      "imageSrc": "imgs/mm8.png"
+    },
+    {
+      "id": 9,
+      "name": "Blue Dog",
+      "size": "12x8 inches",
+      "imageSrc": "imgs/mm9.png"
+    },
+    {
+      "id": 10,
+      "name": "Two Lines",
+      "size": "30x24 inches",
+      "imageSrc": "imgs/mm10.png"
+    },
+    {
+      "id": 11,
+      "name": "Jack in the Green",
+      "size": "20x12 inches",
+      "imageSrc": "imgs/mm11.png"
+    },
+    {
+      "id": 12,
+      "name": "At the Helm",
+      "size": "16x11 inches",
+      "imageSrc": "imgs/mm12.png"
+    }
+  ]
+}
