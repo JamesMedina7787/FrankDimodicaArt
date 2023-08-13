@@ -36,6 +36,18 @@ app.get('/mixedMedia', (req, res) => {
   })
 })
 
+app.get('/pencilDrawings', (req, res) => {
+  fs.readFile('pencil.json', function(error, data){
+    if(error){
+      res.status(500).end()
+    } else {
+      res.render('pencilDrawings.ejs', {
+       drawn: JSON.parse(data)
+      })
+    }
+  })
+})
+
 
 const PORT = 3000;
 app.listen(PORT, () => {

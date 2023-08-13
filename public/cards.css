@@ -1,0 +1,49 @@
+.card-row {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 150px; /* Adjust the width to make cards smaller */
+    height: 225px; /* Adjust the height to maintain aspect ratio */
+    margin: 10px;
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    transition: transform 1s ease-in-out;
+}
+
+.card .card-inner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transform-origin: center;
+    transition: transform 1s ease-in-out;
+}
+
+.card .card-inner .card-front,
+.card .card-inner .card-back {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    backface-visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+}
+
+.card .card-inner .card-front {
+    transform: rotateY(0deg);
+    background-color: #f1f1f1;
+}
+
+.card .card-inner .card-back {
+    transform: rotateY(180deg);
+    background-color: #ddd;
+}
+
+.card:hover .card-inner {
+    transform: rotateY(180deg);
+}
