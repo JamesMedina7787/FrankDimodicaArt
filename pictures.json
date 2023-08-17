@@ -4,164 +4,329 @@
       "id": 1,
       "name": "Twilight at Dawn",
       "size": "17x13 inches",
-      "imageSrc": "imgs/11.png"
+      "imageSrc": "imgs/11.png",
+      "small":"imgs/11e.png",
+      "year" : ""
     },
     {
       "id": 2,
       "name": "Nude in Chair",
       "size": "34x26 inches",
-      "imageSrc": "imgs/12.png"
+      "imageSrc": "imgs/12.png",
+      "small":"imgs/12e.png",
+      "year": ""
     },
     {
       "id": 3,
       "name": "Chimp in a Cloud",
       "size": "48x36 inches",
-      "imageSrc": "imgs/15.png"
+      "imageSrc": "imgs/15.png",
+      "small":"imgs/15e.png",
+      "year": 2016
     },
     {
       "id": 4,
       "name": "Puffin Stuff",
       "size": "22x14 inches",
-      "imageSrc": "imgs/14.png"
+      "imageSrc": "imgs/14.png",
+      "small":"imgs/14e.png",
+      "year": ""
     },
     {
       "id": 5,
       "name": "By the Lagoon",
       "size": "49x48 Inches 2015",
-      "imageSrc": "imgs/01.png"
+      "imageSrc": "imgs/01.png",
+      "small":"imgs/01e.png",
+      "year": 2015
     },
     {
       "id": 6,
       "name": "Prussian Dream",
       "size": "49x48 Inches",
-      "imageSrc": "imgs/02.png"
+      "imageSrc": "imgs/02.png",
+      "small":"imgs/02e.png",
+      "year":2016
     },
     {
       "id": 7,
       "name": "The Crooked Vase",
       "size": "24x18 Inches",
-      "imageSrc": "imgs/03.png"
+      "imageSrc": "imgs/03.png",
+      "small":"imgs/03e.png",
+      "year":2014
     },
     {
       "id": 8,
       "name": "Black Static",
       "size": "30x24 Inches",
-      "imageSrc": "imgs/04.png"
+      "imageSrc": "imgs/04.png",
+      "small":"imgs/04e.png",
+      "year":2015
     },
     {
       "id": 9,
       "name": "Scream",
       "size": "20x20 Inches",
-      "imageSrc": "imgs/05.png"
+      "imageSrc": "imgs/05.png",
+      "small":"imgs/05e.png",
+      "year":2015
     },
     {
       "id": 10,
       "name": "Prussian Dream",
       "size": "10ftx40 Inches",
-      "imageSrc": "imgs/06.png"
+      "imageSrc": "imgs/06.png",
+      "small":"imgs/06e.png",
+      "year":2016
     },
     {
       "id": 11,
       "name": "Still Life with Mysterious Background",
       "size": "21x17 Inches",
-      "imageSrc": "imgs/07.png"
+      "imageSrc": "imgs/07.png",
+      "small":"imgs/07e.png",
+      "year":""
     },
     {
       "id": 12,
       "name": "Apples and Oranges",
       "size": "24x20 Inches",
-      "imageSrc": "imgs/08.png"
+      "imageSrc": "imgs/08.png",
+      "small":""
     },
     {
       "id": 13,
       "name": "At the Circus",
       "size": "20x16 Inches",
-      "imageSrc": "imgs/09.png"
+      "imageSrc": "imgs/09.png",
+      "small":"imgs/09e.png",
+      "year":""
     },
     {
       "id": 14,
       "name": "Pineappley",
       "size": "12x9 Inches",
-      "imageSrc": "imgs/10.png"
+      "imageSrc": "imgs/10.png",
+      "small":"imgs/10e.png",
+      "year":2015
     },
     {
       "id": 15,
       "name": "Pirahna Snapper",
       "size": "30x20 Inches",
-      "imageSrc": "imgs/16.png"
+      "imageSrc": "imgs/16.png",
+      "small":"imgs/16e.png",
+      "year":""
     },
     {
       "id": 16,
       "name": "The Crawler",
       "size": "30x24 Inches",
-      "imageSrc": "imgs/17.png"
+      "imageSrc": "imgs/17.png",
+      "small":"imgs/17e.png",
+      "year": 2016
     },
     {
       "id": 17,
       "name": "Tattoo You",
       "size": "30x24 Inches",
-      "imageSrc": "imgs/13.png"
+      "imageSrc": "imgs/13.png",
+      "small":"imgs/13e.png",
+      "year": ""
     },
     {
       "id": 18,
       "name": "Blue Balls",
       "size": "20x16 Inches",
-      "imageSrc": "imgs/18.png"
+      "imageSrc": "imgs/18.png",
+      "small":"imgs/18e.png",
+      "year": 2013
     },
     {
       "id": 19,
       "name": "Oh No!",
       "size": "32x18 Inches",
-      "imageSrc": "imgs/19.png"
+      "imageSrc": "imgs/19.png",
+      "small":"imgs/19e.png",
+      "year": 2014
     },
     {
       "id": 20,
       "name": "Rooster",
       "size": "36x37 Inches",
-      "imageSrc": "imgs/21.png"
+      "imageSrc": "imgs/21.png",
+      "small":"imgs/21e.png",
+      "year": 2016
     },
     {
       "id": 21,
       "name": "Hideous Beauty",
       "size": "24x18 Inches",
-      "imageSrc": "imgs/22.png"
+      "imageSrc": "imgs/22.png",
+      "small":"imgs/22e.png",
+      "year": ""
     },
     {
       "id": 22,
       "name": "Starman",
       "size": "28x22",
-      "imageSrc": "imgs/23.png"
+      "imageSrc": "imgs/23.png",
+      "small":"imgs/23e.png",
+      "year": 1989
     },
     {
       "id": 23,
       "name": "The Meeting",
       "size": "25x30 Inches",
-      "imageSrc": "imgs/24.png"
+      "imageSrc": "imgs/24.png",
+      "small":"imgs/24e.png",
+      "year": 2015
     },
     {
       "id": 24,
       "name": "Rust at Dusk",
       "size": "24x18 Inches",
-      "imageSrc": "imgs/25.png"
+      "imageSrc": "imgs/25.png",
+      "small":"imgs/25e.png",
+      "year":2015
     },
 
     {
       "id": 25,
       "name": "Apples and Oranges",
       "size": "24x20 Inches",
-      "imageSrc": "imgs/27.png"
+      "imageSrc": "imgs/27.png",
+      "small":"imgs/27e.png",
+      "year": ""
     },
     {
       "id": 26,
       "name": "Run for your Life",
       "size": "24x18 Inches",
-      "imageSrc": "imgs/28.png"
+      "imageSrc": "imgs/28.png",
+      "small":"imgs/28e.png",
+      "year":2015
     },
     {
       "id": 27,
       "name": "Grapes of Wrath",
       "size": "28x18 Inches",
-      "imageSrc": "imgs/29.png"
-    }
+      "imageSrc": "imgs/29.png",
+      "small":"imgs/29e.png",
+      "year":""
+    },
+    {
+      "id": 28,
+      "name": "Biker",
+      "size": "36x36 Inches",
+      "imageSrc": "imgs/biker.jpg",
+      "small":"imgs/bikere.jpg",
+      "year": 2017
+    },
+    {
+      "id": 29,
+      "name": "Blue Hooker Blues",
+      "size": "28x18 Inches",
+      "imageSrc": "imgs/blueHookerBlues.jpg",
+      "small":"imgs/blueHookerBluese.jpg",
+      "year": 2016
+    },
+    {
+      "id": 30,
+      "name": "Blue In Pink",
+      "size": "30x22 Inches",
+      "imageSrc": "imgs/blueInPink.jpg",
+      "small":"imgs/blueInPinke.jpg",
+      "year":2015
+    },
+    {
+      "id": 31,
+      "name": "Bonehead",
+      "size": "36x36 Inches",
+      "imageSrc": "imgs/boneHead.jpg",
+      "small":"imgs/boneHeade.jpg",
+      "year":2017
+    },
+    {
+      "id": 32,
+      "name": "Cello",
+      "size": "28x18 Inches",
+      "imageSrc": "imgs/cello.jpg",
+      "small":"imgs/celloe.jpg",
+      "year": 2015
+    },
+    {
+      "id": 33,
+      "name": "Egyptian Interlude",
+      "size": "30x18 Inches",
+      "imageSrc": "imgs/egyptianInterlude.jpg",
+      "small":"imgs/egyptianInterludee.jpg",
+      "year": ""
+    },
+    {
+      "id": 34,
+      "name": "Lost on a Path",
+      "size": "30x30 Inches",
+      "imageSrc": "imgs/lostOnAPath.jpg",
+      "small":"imgs/lostOnAPathe.jpg",
+      "year": 2015
+    },
+    {
+    "id": 35,
+    "name": "Mystical Madam 2",
+    "size": "85x66 Inches",
+    "imageSrc": "imgs/mysticalMadem2.jpg",
+    "small":"imgs/mysticalMadem2e.jpg",
+    "year": 1991
+  },
+  {
+"id": 36,
+"name": "Octagon",
+"size": "30x30 Inches",
+"imageSrc": "imgs/octagon.jpg",
+"small":"imgs/octagone.jpg",
+"year": ""
+},
+{
+"id": 37,
+"name": "Orange Tang",
+"size": "30x18 Inches",
+"imageSrc": "imgs/orangeTang.jpg",
+"small":"imgs/orangeTange.jpg",
+"year": ""
+},
+{
+"id": 38,
+"name": "Parrot on a Limb",
+"size": "30x24 Inches",
+"imageSrc": "imgs/parrotOnALimb.jpg",
+"small":"imgs/parrotOnALimbe.jpg",
+"year": 2015
+},
+{
+"id": 39,
+"name": "Placebo Trip",
+"size": "30x24 Inches",
+"imageSrc": "imgs/placeboTrip.jpg",
+"small":"imgs/placeboTripe.jpg",
+"year":2014
+},
+{
+"id": 40,
+"name":"Shattered Dreams",
+"size": "30x24 Inches",
+"imageSrc": "imgs/shatteredDreams.jpg",
+"small":"imgs/shatteredDreamse.jpg",
+"year": ""
+},
+{
+"id": 41,
+"name": "War of the World's",
+"size": "48x24 Inches",
+"imageSrc": "imgs/warOfTheWorlds.jpg",
+"small":"imgs/warOfTheWorldse.jpg",
+"year": 2015
+}
   ]
 }

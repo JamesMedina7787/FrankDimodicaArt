@@ -1,0 +1,70 @@
+{"mixedMedia": [
+  {
+    "id": 1,
+    "name": "Frank and Pals",
+    "size": "Art Gallery",
+    "imageSrc": "imgs/frank.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Frank and Pals",
+    "size": "Art Gallery",
+    "imageSrc": "imgs/frank1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Frank Dimodica and Arturo Dimodica",
+    "size": "Family",
+    "imageSrc": "imgs/frank2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Malamonni",
+    "size": "The Cat",
+    "imageSrc": "imgs/frank3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Frank and Keith Thomas",
+    "size": "At Scarsdale Library",
+    "imageSrc": "imgs/frank4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Frank",
+    "size": "Backstage",
+    "imageSrc": "imgs/frank5.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Frank's Band",
+    "size": "Tryangle",
+    "imageSrc": "imgs/frank6.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Stephanie Parker",
+    "size": "Peacock Abstraction",
+    "imageSrc": "imgs/frank7.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Frank",
+    "size": "Art Exhibition",
+    "imageSrc": "imgs/frank8.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Frank's Band",
+    "size": "Tryangle",
+    "imageSrc": "imgs/frank9.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Frank",
+    "size": "Black Hole",
+    "imageSrc": "imgs/frank10.jpg"
+  },
+
+]
+}
