@@ -5,6 +5,7 @@
       "name": "About Face",
       "size": "12x8 inches",
       "imageSrc": "imgs/aboutFace.png",
+      "small":"imgs/aboutFacee.png",
       "year": 1999
     },
     {
@@ -12,6 +13,7 @@
       "name": "Bouquet",
       "size": "12x18 inches",
       "imageSrc": "imgs/bouquet.png",
+      "small":"imgs/bouquete.png",
       "year" : 2012
     },
     {
@@ -19,6 +21,7 @@
       "name": "Capricorn",
       "size": "17x14 inches",
       "imageSrc": "imgs/capricorn.png",
+      "small":"imgs/capricorne.png",
       "year" : 1999
     },
     {
@@ -26,6 +29,7 @@
       "name": "Dragon",
       "size": "12x8 inches",
       "imageSrc": "imgs/dragon.png",
+      "small":"imgs/dragone.png",
       "year":  2005
     },
     {
@@ -33,6 +37,7 @@
       "name": "Embryo",
       "size": "17x14 inches",
       "imageSrc": "imgs/embryo.png",
+      "small":"imgs/embryoe.png",
       "year":  2003
     },
     {
@@ -40,6 +45,7 @@
       "name": "Footloose",
       "size": "18x12 Inches",
       "imageSrc": "imgs/footloose.png",
+      "small":"imgs/footloosee.png",
       "year": 1999
     },
     {
@@ -47,6 +53,7 @@
       "name": "Get Off My Back",
       "size": "12x16",
       "imageSrc": "imgs/getOffMyBack.png",
+      "small":"imgs/getOffMyBacke.png",
       "year": 2013
     },
     {
@@ -54,6 +61,7 @@
       "name": "Hanging Around",
       "size": "12x18 Inches",
       "imageSrc": "imgs/hangingAround.png",
+      "small":"imgs/hangingArounde.png",
       "year": 1997
     },
     {
@@ -61,6 +69,7 @@
       "name": "Hoggin The Road",
       "size": "12x18 Inches",
       "imageSrc": "imgs/hogginTheRoad.png",
+      "small":"imgs/hogginTheRoade.png",
       "year": 2012
     },
     {
@@ -68,6 +77,7 @@
       "name": "Into The Abyss",
       "size": "14x16",
       "imageSrc": "imgs/intoTheAbyss.png",
+      "small":"imgs/intoTheAbysse.png",
       "year": 1997
     },
     {
@@ -75,6 +85,7 @@
       "name": "Kabooki Dump",
       "size": "14x16 Inches",
       "imageSrc": "imgs/kabookiDump.png",
+      "small":"imgs/kabookiDumpe.png",
       "year": 2000
     },
     {
@@ -82,6 +93,7 @@
       "name": "Light as a Leaf",
       "size": "17x14 Inches",
       "imageSrc": "imgs/lightAsALeaf.png",
+      "small":"imgs/lightAsALeafe.png",
       "year": 1999
     },
     {
@@ -89,6 +101,7 @@
       "name": "Maggot",
       "size": "12x18 Inches",
       "imageSrc": "imgs/maggot.png",
+      "small":"imgs/maggote.png",
       "year": 1999
     },
     {
@@ -96,6 +109,7 @@
       "name": "Mets Yankees (series)",
       "size": "12x8 Inches",
       "imageSrc": "imgs/metsYankees.png",
+      "small":"imgs/metsYankeese.png",
       "year": 1999
     },
     {
@@ -103,6 +117,7 @@
       "name": "Mother Goose",
       "size": "17x14 Inches",
       "imageSrc": "imgs/motherGoose.png",
+      "small":"imgs/motherGoosee.png",
       "year": 2017
     },
     {
@@ -110,6 +125,7 @@
       "name": "untitled",
       "size": "12x14 Inches",
       "imageSrc": "imgs/pencil.png",
+      "small":"imgs/pencile.png",
       "year": 2000
     },
     {
@@ -117,6 +133,7 @@
       "name": "Samarai",
       "size": "12x18 Inches",
       "imageSrc": "imgs/samarai.png",
+      "small":"imgs/samaraie.png",
       "year": 1999
     },
     {
@@ -124,6 +141,7 @@
       "name": "Secret Garden",
       "size": "12x18 inches",
       "imageSrc": "imgs/secretGarden.png",
+      "small":"imgs/secretGardene.png",
       "year": 1999
     },
     {
@@ -131,6 +149,7 @@
       "name": "Shit on the Loin",
       "size": "17x14 inches",
       "imageSrc": "imgs/shitOnTheLoin.png",
+      "small":"imgs/shitOnTheLoine.png",
       "year": 2000
     },
     {
@@ -138,6 +157,7 @@
       "name": "Ta Tas",
       "size": "17x14 Inches",
       "imageSrc": "imgs/tatas.png",
+      "small":"imgs/tatase.png",
       "year": 1999
     },
     {
@@ -145,6 +165,7 @@
       "name": "The OB Long Room",
       "size": "17x14 Inches",
       "imageSrc": "imgs/theObLongRoom.png",
+      "small":"imgs/theObLongRoome.png",
       "year": 2004
     },
     {
@@ -152,6 +173,7 @@
       "name": "Torso",
       "size": "12x18 inches",
       "imageSrc": "imgs/torso.png",
+      "small":"imgs/torsoe.png",
       "year": 1998
     },
     {
@@ -159,6 +181,7 @@
       "name": "Transistor Network",
       "size": "12x18 Inches",
       "imageSrc": "imgs/transistorNetwork.png",
+      "small":"imgs/transistorNetworke.png",
       "year": 1997
     },
     {
@@ -166,6 +189,7 @@
       "name": "Trees in a Wheat Field",
       "size": "12x18 Inches",
       "imageSrc": "imgs/treesInAWheatField.png",
+      "small":"imgs/treesInAWheatFielde.png",
       "year": 1997
     },
 
@@ -174,6 +198,7 @@
       "name": "Two Birds And A Coin",
       "size": "12x18 Inches",
       "imageSrc": "imgs/twoBirdsInACoin.png",
+      "small":"imgs/twoBirdsInACoine.png",
       "year": 1992
     },
     {
@@ -181,6 +206,7 @@
       "name": "Yes it can Happen",
       "size": "14x17 Inches",
       "imageSrc": "imgs/yesItCanHappen.png",
+      "small":"imgs/yesItCanHappene.png",
       "year" : 1999
     },
     {
@@ -188,6 +214,7 @@
       "name": "Whiplash",
       "size": "12x15 Inches",
       "imageSrc": "imgs/whiplash.png",
+      "small":"imgs/whiplashe.png",
       "year":1997
     }
   ]

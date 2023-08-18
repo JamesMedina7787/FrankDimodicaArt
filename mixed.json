@@ -1,135 +1,180 @@
-{"mixedMedia": [
-  {
-    "id": 1,
-    "name": "Birth of an Epiphany",
-    "size": "30x22 inches",
-    "imageSrc": "imgs/mm1.png"
-  },
-  {
-    "id": 2,
-    "name": "Custom Oak Drawer",
-    "size": "",
-    "imageSrc": "imgs/mm2.png"
-  },
-  {
-    "id": 3,
-    "name": "Custom Gothic",
-    "size": "",
-    "imageSrc": "imgs/mm3.png"
-  },
-  {
-    "id": 4,
-    "name": "Out of the Sky",
-    "size": "20x15 inches",
-    "imageSrc": "imgs/mm4.png"
-  },
-  {
-    "id": 5,
-    "name": "The Gathering",
-    "size": "25x36 inches",
-    "imageSrc": "imgs/mm5.png"
-  },
-  {
-    "id": 6,
-    "name": "Stranger in Manhattan",
-    "size": "25x36 inches",
-    "imageSrc": "imgs/mm6.png"
-  },
-  {
-    "id": 7,
-    "name": "Mystical Madam",
-    "size": "12x8 inches",
-    "imageSrc": "imgs/mm7.png"
-  },
-  {
-    "id": 8,
-    "name": "Who's Hoo",
-    "size": "13x10 inches",
-    "imageSrc": "imgs/mm8.png"
-  },
-  {
-    "id": 9,
-    "name": "Blue Dog",
-    "size": "12x8 inches",
-    "imageSrc": "imgs/mm9.png"
-  },
-  {
-    "id": 10,
-    "name": "Two Lines",
-    "size": "30x24 inches",
-    "imageSrc": "imgs/mm10.png"
-  },
-  {
-    "id": 11,
-    "name": "Jack in the Green",
-    "size": "20x12 inches",
-    "imageSrc": "imgs/mm11.png"
-  },
-  {
-    "id": 12,
-    "name": "At the Helm",
-    "size": "16x11 inches",
-    "imageSrc": "imgs/mm12.png"
-  },
-  {
-    "id": 13,
-    "name": "Pilgrim Tree",
-    "size": "14x11 inches",
-    "imageSrc": "imgs/mm13.png"
-  },
-  {
-    "id": 14,
-    "name": "Cedar Fence",
-    "size": "50 Feet",
-    "imageSrc": "imgs/mm14.png"
-  },
-  {
-    "id": 15,
-    "name": "Crack Baby",
-    "size": "36x15 inches",
-    "imageSrc": "imgs/mm15.png"
-  },
-  {
-    "id": 16,
-    "name": "Escher Triangle Study",
-    "size": "12x10 inches",
-    "imageSrc": "imgs/mm16.png"
-  },
-  {
-    "id": 17,
-    "name": "Pilgrim Tree",
-    "size": "14x11 inches",
-    "imageSrc": "imgs/mm17.png"
-  },
-  {
-    "id": 18,
-    "name": "A Horsebird with 2 Bums and a Fish",
-    "size": "",
-    "imageSrc": "imgs/mm18.png"
-  },
-  {
-    "id": 19,
-    "name": "Three Friends",
-    "size": "18x12 inches",
-    "imageSrc": "imgs/mm19.png"
-  },
-  {
-    "id": 20,
-    "name": "Chips are Rising",
-    "size": "",
-    "imageSrc": "imgs/mm20.png"
-  },
-  {
-    "id": 21,
-    "name": "Fish",
-    "size": "12x8 inches",
-    "imageSrc": "imgs/mm21.png"
-  },
-  {
-    "id": 22,
-    "name": "On Their High Horse",
-    "size": "24x36 inches",
-    "imageSrc": "imgs/mm22.png"
-  }
-]
+{
+  "mixedMedia": [
+    {
+      "id": 1,
+      "name": "Birth of an Epiphany",
+      "size": "30x22 inches",
+      "imageSrc": "imgs/mm1.png",
+      "small": "imgs/mm1e.png",
+      "year": 1988
+    },
+    {
+      "id": 2,
+      "name": "Custom Oak Drawer",
+      "size": "",
+      "imageSrc": "imgs/mm2.png",
+      "small": "imgs/mm2e.png",
+      "year": 2003
+    },
+    {
+      "id": 3,
+      "name": "Custom Gothic",
+      "size": "",
+      "imageSrc": "imgs/mm3.png",
+      "small": "imgs/mm3e.png",
+      "year": "Wood Work"
+    },
+    {
+      "id": 4,
+      "name": "Out of the Sky",
+      "size": "20x15 inches",
+      "imageSrc": "imgs/mm4.png",
+      "small": "",
+      "year": ""
+    },
+    {
+      "id": 5,
+      "name": "The Gathering",
+      "size": "25x36 inches",
+      "imageSrc": "imgs/mm5.png",
+      "small": "imgs/mm5e.png",
+      "year": 2001
+    },
+    {
+      "id": 6,
+      "name": "Stranger in Manhattan",
+      "size": "25x36 inches",
+      "imageSrc": "imgs/mm6.png",
+      "small": "imgs/mm6e.png",
+      "year": 1990
+    },
+    {
+      "id": 7,
+      "name": "Mystical Madam",
+      "size": "12x8 inches",
+      "imageSrc": "imgs/mm7.png",
+      "small": "imgs/mm7e.png",
+      "year": 1989
+    },
+    {
+      "id": 8,
+      "name": "Who's Hoo",
+      "size": "13x10 inches",
+      "imageSrc": "imgs/mm8.png",
+      "small": "imgs/mm8e.png",
+      "year": ""
+    },
+    {
+      "id": 9,
+      "name": "Blue Dog",
+      "size": "12x8 inches",
+      "imageSrc": "imgs/mm9.png",
+      "small": "imgs/mm9e.png",
+      "year": 1989
+    },
+    {
+      "id": 10,
+      "name": "Two Lines",
+      "size": "30x24 inches",
+      "imageSrc": "imgs/mm10.png",
+      "small": "imgs/mm10e.png",
+      "year": 1988
+    },
+    {
+      "id": 11,
+      "name": "Jack in the Green",
+      "size": "20x12 inches",
+      "imageSrc": "imgs/mm11.png",
+      "small": "imgs/mm11e.png",
+      "year": ""
+    },
+    {
+      "id": 12,
+      "name": "At the Helm",
+      "size": "16x11 inches",
+      "imageSrc": "imgs/mm12.png",
+      "small": "imgs/mm12e.png",
+      "year": 1989
+    },
+    {
+      "id": 13,
+      "name": "Pilgrim Tree",
+      "size": "14x11 inches",
+      "imageSrc": "imgs/mm13.png",
+      "small": "imgs/mm13e.png",
+      "year": 2015
+    },
+    {
+      "id": 14,
+      "name": "Cedar Fence",
+      "size": "50 Feet",
+      "imageSrc": "imgs/mm14.png",
+      "small": "imgs/mm14e.png",
+      "year": 2013
+    },
+    {
+      "id": 15,
+      "name": "Crack Baby",
+      "size": "36x15 inches",
+      "imageSrc": "imgs/mm15.png",
+      "small": "imgs/mm15e.png",
+      "year": 1991
+    },
+    {
+      "id": 16,
+      "name": "Escher Triangle Study",
+      "size": "12x10 inches",
+      "imageSrc": "imgs/mm16.png",
+      "small": "imgs/mm16e.png",
+      "year": ""
+    },
+    {
+      "id": 17,
+      "name": "Pilgrim Tree",
+      "size": "14x11 inches",
+      "imageSrc": "imgs/mm17.png",
+      "small": "imgs/mm17e.png",
+      "year": 2015
+    },
+    {
+      "id": 18,
+      "name": "A Horsebird with 2 Bums and a Fish",
+      "size": "",
+      "imageSrc": "imgs/mm18.png",
+      "small": "imgs/mm18e.png",
+      "year": 1989
+    },
+    {
+      "id": 19,
+      "name": "Three Friends",
+      "size": "18x12 inches",
+      "imageSrc": "imgs/mm19.png",
+      "small": "imgs/mm19e.png",
+      "year": 1991
+    },
+    {
+      "id": 20,
+      "name": "Chips are Rising",
+      "size": "",
+      "imageSrc": "imgs/mm20.png",
+      "small": "imgs/mm20e.png",
+      "year": 1990
+    },
+    {
+      "id": 21,
+      "name": "Fish",
+      "size": "12x8 inches",
+      "imageSrc": "imgs/mm21.png",
+      "small": "imgs/mm21e.png",
+      "year": 1999
+    },
+    {
+      "id": 22,
+      "name": "On Their High Horse",
+      "size": "24x36 inches",
+      "imageSrc": "imgs/mm22.png",
+      "small": "imgs/mm22e.png",
+      "year": 2016
+    }
+  ]
 }

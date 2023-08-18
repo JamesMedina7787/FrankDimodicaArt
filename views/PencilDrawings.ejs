@@ -16,6 +16,10 @@
         background-position: center;
         min-height: 1000px;
       }
+      #small{
+        background-size: cover;
+        background-position: center;
+      }
       @media screen and (max-width: 670px) {
         header {
           min-height: 500px;
@@ -65,7 +69,7 @@
         <div class="row">
 
 
-          <div class="<%= item.id % 2 === 0 ? 'col s12 l4' : 'col s12 l4 offset-l1 push-l7' %>">
+          <div class="<%= item.id % 2 === 0 ? 'col s12 l4' : 'col s12 l4 offset-l1 push-l7' %>"  id="small" style="background-image:url(<%=item.small%>)">
             <img src="<%= item.imageSrc %>" class="responsive-img materialboxed" alt="">
           </div>
 
