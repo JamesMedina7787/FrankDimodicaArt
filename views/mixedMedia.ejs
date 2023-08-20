@@ -1,99 +1,117 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Frank Dimodica Art</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- font-awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <!-- Remove the following line if you only want to use Font Awesome 6 -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <style>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Frank Dimodica Art</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <style>
+    header {
+      background: url("imgs/04.png");
+      background-size: cover;
+      background-position: center;
+      min-height: 1000px;
+    }
+    #small {
+    }
+    #small#loaded > img {
+      opacity: 0;
+    }
+    #small > img {
+      opacity: 1;
+      transition: opacity 200ms ease-in-out;
+    }
+    @media screen and (max-width: 670px) {
       header {
-        background: url("imgs/04.png");
-        background-size: cover;
-        background-position: center;
-        min-height: 1000px;
+        min-height: 500px;
       }
-      #small{
-        background-size: cover;
-        background-position: center;
+      .section {
+        padding-top: 4vw;
+        padding-bottom: 4vw;
       }
-      @media screen and (max-width: 670px) {
-        header {
-          min-height: 500px;
-        }
-        .section {
-          padding-top: 4vw;
-          padding-bottom: 4vw;
-        }
-        .tabs .indicator {
-          background-color: #1a237e;
-        }
-        .tabs .tab a:focus, .tabs .tab a:focus.active {
-          background: transparent;
-        }
+      .tabs .indicator {
+        background-color: #1a237e;
       }
-    </style>
-  </head>
-  <body>
-    <header>
-      <nav class="nav-wrapper black">
-        <div class="container">
-          <a href="#" class="brand-logo">JWM</a>
-          <a href="#" class="sidenav-trigger" data-target="mobile-menu">
-            <i class="material-icons">menu</i>
-          </a>
-          <ul class="right hide-on-med-and-down">
-            <li><a href="#">Galleries</a></li>
-            <li><a href="#">Artist Statement</a></li>
-            <li><a href="#">Solo Exhibitions</a></li>
-            <li><a href="#">Group Exhibitions</a></li>
-            <li><a href="#">Contact</a></li>
-            <li><a href="" class="tooltipped btn-floating btn-small indigo darken-4" data-position="bottom" data-tooltip="Instagram"><i class="fab fa-instagram"></i></a></li>
-            <li><a href="" class="tooltipped btn-floating btn-small indigo darken-4" data-position="bottom" data-tooltip="Facebook"><i class="fab fa-facebook"></i></a></li>
-          </ul>
-          <ul class="sidenav grey lighten-2" id="mobile-menu">
-            <li><a href="#">Galleries</a></li>
-            <li><a href="#">Artist Statement</a></li>
-            <li><a href="#">Solo Exhibitions</a></li>
-            <li><a href="#">Group Exhibitions</a></li>
-            <li><a href="#">Contact</a></li>
-          </ul>
-        </div>
-      </nav>
-    </header>
-    <section class="container section scrollspy" id="photos">
-      <% mixed.mixedMedia.forEach(function(item) { %>
-        <div class="row">
+      .tabs .tab a:focus, .tabs .tab a:focus.active {
+        background: transparent;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav-wrapper black">
+      <div class="container">
+        <a href="#" class="brand-logo">JWM</a>
+        <a href="#" class="sidenav-trigger" data-target="mobile-menu">
+          <i class="material-icons">menu</i>
+        </a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="#">Galleries</a></li>
+          <li><a href="#">Artist Statement</a></li>
+          <li><a href="#">Solo Exhibitions</a></li>
+          <li><a href="#">Group Exhibitions</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="" class="tooltipped btn-floating btn-small indigo darken-4" data-position="bottom" data-tooltip="Instagram"><i class="fab fa-instagram"></i></a></li>
+          <li><a href="" class="tooltipped btn-floating btn-small indigo darken-4" data-position="bottom" data-tooltip="Facebook"><i class="fab fa-facebook"></i></a></li>
+        </ul>
+        <ul class="sidenav grey lighten-2" id="mobile-menu">
+          <li><a href="#">Galleries</a></li>
+          <li><a href="#">Artist Statement</a></li>
+          <li><a href="#">Solo Exhibitions</a></li>
+          <li><a href="#">Group Exhibitions</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <section class="container section scrollspy" id="photos">
+    <% mixed.mixedMedia.forEach(function(item) { %>
+    <div class="row">
+      <div class="<%= item.id % 2 === 0 ? 'col s12 l4' : 'col s12 l4 offset-l1 push-l7' %>"  id="small" style="background-size: cover;background-position: center;background-image:url(<%=item.small%>)">
+        <img src="<%= item.imageSrc %>" class="responsive-img materialboxed" alt="" loading="lazy">
+      </div>
+      <div class="<%= item.id % 2 === 0 ? 'col s12 l6 offset-l1' : 'col s12 l6 pull-l5 right-align' %>">
+        <h2 class="indigo-text text-darken-4"><%= item.name %></h2>
+        <p><%= item.size %></p>
+      </div>
+    </div>
+    <% }) %>
+  </section>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const blurDivs = document.querySelectorAll("#small");
 
+      blurDivs.forEach(div => {
+        const images = div.querySelectorAll("img");
 
-          <div class="<%= item.id % 2 === 0 ? 'col s12 l4' : 'col s12 l4 offset-l1 push-l7' %>"  id="small" style="background-image:url(<%=item.small%>)">
-            <img src="<%= item.imageSrc %>" class="responsive-img materialboxed" alt="">
-          </div>
+        function loaded() {
+          div.setAttribute("id", "loaded");
+          console.log("Image loaded");
+        }
 
+        images.forEach(img => {
+          if (img.complete) {
+            loaded();
+            console.log("Image already loaded");
+          } else {
+            console.log("Image not yet loaded");
+            img.addEventListener("load", loaded);
+          }
+        });
+      });
 
-                  <div class="<%= item.id % 2 === 0 ? 'col s12 l6 offset-l1' : 'col s12 l6 pull-l5 right-align' %>">
-            <h2 class="indigo-text text-darken-4"><%= item.name %></h2>
-            <p><%= item.size %></p>
-          </div>
-
-
-        </div>
-
-
-      <% }) %>
-
-    </section>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-
-<script>
-$(document).ready(function(){
-  $('.sidenav').sidenav();
-  $('.materialboxed').materialbox();
-})
-</script>
+      // Load cards on page load
+      $(document).ready(function() {
+        $('.sidenav').sidenav();
+        $('.materialboxed').materialbox();
+      });
+    });
+  </script>
+  <script src="../public/cards.js"></script>
 </body>
 </html>
