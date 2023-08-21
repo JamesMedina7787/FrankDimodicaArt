@@ -36,6 +36,10 @@ app.get('/mixedMedia', (req, res) => {
   })
 })
 
+app.get('/contact', (req, res) => {
+      res.render('contact.ejs')
+})
+
 app.get('/pencilDrawings', (req, res) => {
   fs.readFile('pencil.json', function(error, data){
     if(error){
